@@ -1,0 +1,4 @@
+<ol>
+  <li>Install poetry</li>
+  <li>check version</li>
+</ol>
